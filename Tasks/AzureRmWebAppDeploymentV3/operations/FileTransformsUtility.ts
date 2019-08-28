@@ -29,7 +29,7 @@ export class FileTransformsUtility {
             webPackage = output.webDeployPkg;
         }
         else {
-            tl.debug('File Tranformation not enabled');
+            tl.debug('File Transformation not enabled');
         }
 
         return webPackage;

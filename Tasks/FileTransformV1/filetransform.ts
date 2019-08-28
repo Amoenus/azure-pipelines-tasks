@@ -27,7 +27,7 @@ async function main() {
         }
     }
     else {
-        tl.debug('File Tranformation not enabled');
+        tl.debug('File Transformation not enabled');
     }
 }
 
